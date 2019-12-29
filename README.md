@@ -2,6 +2,8 @@
 
 Experimental screensaver for [Haiku OS](https://haiku-os.org) made for the Google Code-In 2019 competition.
 
+![](WorkInMotion.png)
+
 ## Usage
 
 - Compile the screensaver using the `Makefile` in the source directory.
