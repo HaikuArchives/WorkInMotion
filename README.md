@@ -6,9 +6,10 @@ Experimental screensaver for [Haiku OS](https://haiku-os.org) made for the Googl
 
 - Compile the screensaver using the `Makefile` in the source directory.
 
-`cd src`
-
-`make`
+```sh
+cd src
+make
+```
 
 - Copy the file to your screensaver folder.
 
